@@ -3,8 +3,8 @@
 // @namespace    http://slither.io/
 // @version      1.2.0
 // @description  Slither.io bot 1.2.0 / Slithere.com
-// @downloadURL  https://greasyfork.org/scripts/20009-slither-io-bot-1-2-0-slithere-com/code/Slitherio-bot%20120%20%20Slitherecom.user.js
-// @updateURL    https://greasyfork.org/scripts/20009-slither-io-bot-1-2-0-slithere-com/code/Slitherio-bot%20120%20%20Slitherecom.user.js
+// @updateURL  https://greasyfork.org/scripts/20009-slither-io-bot-1-2-0-slithere-com/code/Slitherio-bot%20120%20%20Slitherecom.user.js
+// @downloadURL    https://greasyfork.org/scripts/20009-slither-io-bot-1-2-0-slithere-com/code/Slitherio-bot%20120%20%20Slitherecom.user.js
 // @author       Slithere.com | Ermiya Eskandary & Théophile Cailliau
 // @match        http://slither.io/
 // @grant        none
