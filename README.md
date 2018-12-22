@@ -3,7 +3,8 @@ Hello Slither.io Hackers! We are introducing, The slither.io Bot!!! Hope you enj
 
 # Made By
 SLITHERE.COM
-The creator of this repository
+
+TheNinja Tezzy on Google+/Youtube is The creator of this repository
 
 # Made For
 Everyone
